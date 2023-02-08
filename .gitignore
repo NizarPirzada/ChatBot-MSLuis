@@ -1,0 +1,48 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+bin/
+bin/Debug/netcoreapp2.1/appsettings.json
+bin/Debug/netcoreapp2.1/AriBotV4.runtimeconfig.json
+bin/Debug/netcoreapp2.1/AriBotV4.runtimeconfig.dev.json
+bin/Debug/netcoreapp2.1/AriBotV4.pdb
+bin/Debug/netcoreapp2.1/AriBotV4.dll
+bin/Debug/netcoreapp2.1/AriBotV4.deps.json
+.vs/AriBotV4/v16/Server/sqlite3/storage.ide-wal
+.vs/AriBotV4/v16/Server/sqlite3/storage.ide-shm
+.vs/AriBotV4/v16/Server/sqlite3/storage.ide
+.vs/AriBotV4/v16/Server/sqlite3/db.lock
+.vs/AriBotV4/v16/.suo
+.vs/AriBotV4/config/applicationhost.config
+obj/Debug/netcoreapp2.1/AriBotV4.pdb
+obj/Debug/netcoreapp2.1/AriBotV4.dll
+obj/Debug/netcoreapp2.1/AriBotV4.csprojAssemblyReference.cache
+obj/Debug/netcoreapp2.1/AriBotV4.csproj.CoreCompileInputs.cache
+.vs/AriBotV4/DesignTimeBuild/.dtbcache
+obj/
+/bin/Debug/netcoreapp2.1
+/bin/Debug/netcoreapp3.1
+/.vs/AriBotV4
+/.vs
+/bin/IISSupport
+/web.config
